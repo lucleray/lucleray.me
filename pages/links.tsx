@@ -8,7 +8,7 @@ import links from '../lib/links'
 export default () => (
   <div className="layout spread">
     <Head>
-      <title>Luc Leray - Links</title>
+      <title>Luc Leray - Links test</title>
     </Head>
 
     <Nav2 />
